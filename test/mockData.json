@@ -1,0 +1,18 @@
+[
+    {
+        "url": "http://localhost:5000/test/working",
+        "priority": 7
+    },
+    {
+        "url": "http://localhost:5000/test/workingsame",
+        "priority": 3
+    },
+    {
+        "url": "http://localhost:5000/test/notworking",
+        "priority": 2
+    },
+    {
+        "url": "http://localhost:5000/test/againnotworking",
+        "priority": 4
+    }
+]
